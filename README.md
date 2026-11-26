@@ -9,7 +9,7 @@ Manual test cases and bug reports for the practice shop [saucedemo.com](https://
 
 The "Status" column says how each case was checked:
 
-- **Pass (automated)**: covered by my automated suites, [Selenium + pytest](https://github.com/Belaalos/saucedemo-selenium-pytest) and [Playwright](https://github.com/Belaalos/saucedemo-playwright-e2e), which pass
+- **Pass (automated)**: covered by my automated suites, [Selenium + pytest](https://github.com/Belaalos/storefront-ui-regression-suite) and [Playwright](https://github.com/Belaalos/storefront-e2e-playwright), which pass
 - **Fail**: the bug reports above
 - **Not run**: written but not executed yet
 
